@@ -1,0 +1,1 @@
+node main.js --original compressed.nes --dict dat.json -O hmm

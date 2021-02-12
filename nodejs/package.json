@@ -1,0 +1,17 @@
+{
+  "name": "varcompress",
+  "version": "0.0.1",
+  "description": "hmm",
+  "main": "main.js",
+  "repository": "https://github.com/TheHackerCoding/varcompress",
+  "author": "TheHackerCoding",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "json_encode": "^0.1.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.143.1"
+  }
+}
